@@ -1,6 +1,6 @@
 {
-  "name": "strapi-advanced-uuid",
-  "version": "2.0.1",
+  "name": "@dalencatt/strapi-advanced-uuid",
+  "version": "2.1.0",
   "description": "UUID field type support to Strapi with customizations",
   "keywords": [
     "strapi",
